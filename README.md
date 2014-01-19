@@ -25,7 +25,7 @@ For copying files, the command is fairly simple. We’re just going to trigger t
 
 ![](img/KM-copy.jpg)
 
-Download [Finder-Copy.kmmacros](macros/Finder-Copy.kmmacros)
+Download [Finder-Copy.kmmacros](https://raw.github.com/tjluoma/km-finder-move-or-copy/master/macros/Finder-Copy.kmmacros)
 
 If you want to move files, you ned to match the menu item **^Move \.\*Item\.\*** so that it will match any of the options:
 
@@ -44,7 +44,7 @@ The “trick” here is to check to see if the regular “Paste” menu is enabl
 
 If it isn’t, then we try the “Move X Items Here” menu instead.
 
-Download [Finder-Move.kmmacros](macros/Finder-Move.kmmacros).
+Download [Finder-Move.kmmacros](https://raw.github.com/tjluoma/km-finder-move-or-copy/master/macros/Finder-Move.kmmacros).
 
 [Keyboard Maestro]: http://www.keyboardmaestro.com/main/
 
